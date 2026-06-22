@@ -238,9 +238,6 @@ c:\Users\DCS INFOWAY\Akshay\BlazorAppAkshay\bin\Debug\net10.0\wwwroot\_framework
 c:\Users\DCS INFOWAY\Akshay\BlazorAppAkshay\bin\Debug\net10.0\wwwroot\_framework\icudt_EFIGS.tptq2av103.dat
 c:\Users\DCS INFOWAY\Akshay\BlazorAppAkshay\bin\Debug\net10.0\wwwroot\_framework\icudt_no_CJK.lfu7j35m59.dat
 c:\Users\DCS INFOWAY\Akshay\BlazorAppAkshay\bin\Debug\net10.0\wwwroot\_framework\Microsoft.DotNet.HotReload.WebAssembly.Browser.r0uvx0ebhi.wasm
-c:\Users\DCS INFOWAY\Akshay\BlazorAppAkshay\bin\Debug\net10.0\wwwroot\_framework\BlazorAppAkshay.t2ma2iti3e.wasm
-c:\Users\DCS INFOWAY\Akshay\BlazorAppAkshay\bin\Debug\net10.0\wwwroot\_framework\BlazorAppAkshay.kvawo3zh83.pdb
-c:\Users\DCS INFOWAY\Akshay\BlazorAppAkshay\bin\Debug\net10.0\wwwroot\_framework\dotnet.kipefiya3v.js
 c:\Users\DCS INFOWAY\Akshay\BlazorAppAkshay\bin\Debug\net10.0\wwwroot\_framework\blazor.webassembly.958z1vx7fr.js.gz
 c:\Users\DCS INFOWAY\Akshay\BlazorAppAkshay\bin\Debug\net10.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.wp5b4xwrtz.wasm.gz
 c:\Users\DCS INFOWAY\Akshay\BlazorAppAkshay\bin\Debug\net10.0\wwwroot\_framework\Microsoft.AspNetCore.Components.4payhwuyuh.wasm.gz
@@ -449,9 +446,6 @@ c:\Users\DCS INFOWAY\Akshay\BlazorAppAkshay\bin\Debug\net10.0\wwwroot\_framework
 c:\Users\DCS INFOWAY\Akshay\BlazorAppAkshay\bin\Debug\net10.0\wwwroot\_framework\icudt_EFIGS.tptq2av103.dat.gz
 c:\Users\DCS INFOWAY\Akshay\BlazorAppAkshay\bin\Debug\net10.0\wwwroot\_framework\icudt_no_CJK.lfu7j35m59.dat.gz
 c:\Users\DCS INFOWAY\Akshay\BlazorAppAkshay\bin\Debug\net10.0\wwwroot\_framework\Microsoft.DotNet.HotReload.WebAssembly.Browser.r0uvx0ebhi.wasm.gz
-c:\Users\DCS INFOWAY\Akshay\BlazorAppAkshay\bin\Debug\net10.0\wwwroot\_framework\BlazorAppAkshay.t2ma2iti3e.wasm.gz
-c:\Users\DCS INFOWAY\Akshay\BlazorAppAkshay\bin\Debug\net10.0\wwwroot\_framework\BlazorAppAkshay.kvawo3zh83.pdb.gz
-c:\Users\DCS INFOWAY\Akshay\BlazorAppAkshay\bin\Debug\net10.0\wwwroot\_framework\dotnet.kipefiya3v.js.gz
 c:\Users\DCS INFOWAY\Akshay\BlazorAppAkshay\bin\Debug\net10.0\BlazorAppAkshay.staticwebassets.runtime.json
 c:\Users\DCS INFOWAY\Akshay\BlazorAppAkshay\bin\Debug\net10.0\BlazorAppAkshay.staticwebassets.endpoints.json
 c:\Users\DCS INFOWAY\Akshay\BlazorAppAkshay\bin\Debug\net10.0\BlazorAppAkshay.dll
@@ -856,7 +850,6 @@ c:\Users\DCS INFOWAY\Akshay\BlazorAppAkshay\obj\Debug\net10.0\scopedcss\projectb
 c:\Users\DCS INFOWAY\Akshay\BlazorAppAkshay\obj\Debug\net10.0\BlazorAppAkshay.genruntimeconfig.cache
 c:\Users\DCS INFOWAY\Akshay\BlazorAppAkshay\obj\Debug\net10.0\blazor.build.boot-extension.json
 c:\Users\DCS INFOWAY\Akshay\BlazorAppAkshay\obj\Debug\net10.0\dotnet.js
-c:\Users\DCS INFOWAY\Akshay\BlazorAppAkshay\obj\Debug\net10.0\staticwebassets\htmlassetplaceholders\build\r9ikkhulcf.html
 c:\Users\DCS INFOWAY\Akshay\BlazorAppAkshay\obj\Debug\net10.0\compressed\lm8b7qhfu4-{0}-99zm1jdh75-99zm1jdh75.gz
 c:\Users\DCS INFOWAY\Akshay\BlazorAppAkshay\obj\Debug\net10.0\compressed\j0nsji2jck-{0}-nk9bgqz024-nk9bgqz024.gz
 c:\Users\DCS INFOWAY\Akshay\BlazorAppAkshay\obj\Debug\net10.0\compressed\ll30katcny-{0}-bqjiyaj88i-bqjiyaj88i.gz
@@ -1114,10 +1107,6 @@ c:\Users\DCS INFOWAY\Akshay\BlazorAppAkshay\obj\Debug\net10.0\compressed\xqp4jv4
 c:\Users\DCS INFOWAY\Akshay\BlazorAppAkshay\obj\Debug\net10.0\compressed\k47nae3fp5-{0}-tptq2av103-tptq2av103.gz
 c:\Users\DCS INFOWAY\Akshay\BlazorAppAkshay\obj\Debug\net10.0\compressed\t1atse4u21-{0}-lfu7j35m59-lfu7j35m59.gz
 c:\Users\DCS INFOWAY\Akshay\BlazorAppAkshay\obj\Debug\net10.0\compressed\iqxotid9cb-{0}-r0uvx0ebhi-r0uvx0ebhi.gz
-c:\Users\DCS INFOWAY\Akshay\BlazorAppAkshay\obj\Debug\net10.0\compressed\egy17tjdpl-{0}-t2ma2iti3e-t2ma2iti3e.gz
-c:\Users\DCS INFOWAY\Akshay\BlazorAppAkshay\obj\Debug\net10.0\compressed\7lnbsz87hi-{0}-kvawo3zh83-kvawo3zh83.gz
-c:\Users\DCS INFOWAY\Akshay\BlazorAppAkshay\obj\Debug\net10.0\compressed\6xje53evwt-{0}-kipefiya3v-kipefiya3v.gz
-c:\Users\DCS INFOWAY\Akshay\BlazorAppAkshay\obj\Debug\net10.0\compressed\x01jpyg7m5-{0}-5hfz9ulz97-5hfz9ulz97.gz
 c:\Users\DCS INFOWAY\Akshay\BlazorAppAkshay\obj\Debug\net10.0\staticwebassets.build.json
 c:\Users\DCS INFOWAY\Akshay\BlazorAppAkshay\obj\Debug\net10.0\staticwebassets.build.json.cache
 c:\Users\DCS INFOWAY\Akshay\BlazorAppAkshay\obj\Debug\net10.0\staticwebassets.development.json
@@ -1125,3 +1114,17 @@ c:\Users\DCS INFOWAY\Akshay\BlazorAppAkshay\obj\Debug\net10.0\staticwebassets.bu
 c:\Users\DCS INFOWAY\Akshay\BlazorAppAkshay\obj\Debug\net10.0\swae.build.ex.cache
 c:\Users\DCS INFOWAY\Akshay\BlazorAppAkshay\obj\Debug\net10.0\BlazorAp.E0EDEFD7.Up2Date
 c:\Users\DCS INFOWAY\Akshay\BlazorAppAkshay\obj\Debug\net10.0\ref\BlazorAppAkshay.dll
+C:\Users\DCS INFOWAY\Akshay\BlazorAppAkshay\bin\Debug\net10.0\wwwroot\_framework\BlazorAppAkshay.rkc39my7o5.wasm
+C:\Users\DCS INFOWAY\Akshay\BlazorAppAkshay\bin\Debug\net10.0\wwwroot\_framework\BlazorAppAkshay.s3ddkwngch.pdb
+C:\Users\DCS INFOWAY\Akshay\BlazorAppAkshay\bin\Debug\net10.0\wwwroot\_framework\dotnet.d4pevgj9kn.js
+C:\Users\DCS INFOWAY\Akshay\BlazorAppAkshay\bin\Debug\net10.0\wwwroot\_framework\BlazorAppAkshay.rkc39my7o5.wasm.gz
+C:\Users\DCS INFOWAY\Akshay\BlazorAppAkshay\bin\Debug\net10.0\wwwroot\_framework\BlazorAppAkshay.s3ddkwngch.pdb.gz
+C:\Users\DCS INFOWAY\Akshay\BlazorAppAkshay\bin\Debug\net10.0\wwwroot\_framework\dotnet.d4pevgj9kn.js.gz
+C:\Users\DCS INFOWAY\Akshay\BlazorAppAkshay\obj\Debug\net10.0\BlazorAppAkshay.sourcelink.json
+C:\Users\DCS INFOWAY\Akshay\BlazorAppAkshay\obj\Debug\net10.0\staticwebassets\htmlassetplaceholders\build\sdl12hdtbi.html
+C:\Users\DCS INFOWAY\Akshay\BlazorAppAkshay\obj\Debug\net10.0\staticwebassets\htmlassetplaceholders\build\urxnvmf34s.html
+C:\Users\DCS INFOWAY\Akshay\BlazorAppAkshay\obj\Debug\net10.0\compressed\egy17tjdpl-{0}-rkc39my7o5-rkc39my7o5.gz
+C:\Users\DCS INFOWAY\Akshay\BlazorAppAkshay\obj\Debug\net10.0\compressed\7lnbsz87hi-{0}-s3ddkwngch-s3ddkwngch.gz
+C:\Users\DCS INFOWAY\Akshay\BlazorAppAkshay\obj\Debug\net10.0\compressed\6xje53evwt-{0}-d4pevgj9kn-d4pevgj9kn.gz
+C:\Users\DCS INFOWAY\Akshay\BlazorAppAkshay\obj\Debug\net10.0\compressed\769q8uvzw0-{0}-bwbi1faacf-bwbi1faacf.gz
+C:\Users\DCS INFOWAY\Akshay\BlazorAppAkshay\obj\Debug\net10.0\compressed\x01jpyg7m5-{0}-bwbi1faacf-bwbi1faacf.gz

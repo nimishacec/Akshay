@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\DCS INFOWAY\\Akshay\\BlazorAppAkshay\\BlazorAppAkshay.csproj": {}
+    "C:\\Users\\DCS INFOWAY\\Akshay\\BlazorAppAkshay\\BlazorAppAkshay.csproj": {}
   },
   "projects": {
-    "c:\\Users\\DCS INFOWAY\\Akshay\\BlazorAppAkshay\\BlazorAppAkshay.csproj": {
+    "C:\\Users\\DCS INFOWAY\\Akshay\\BlazorAppAkshay\\BlazorAppAkshay.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\DCS INFOWAY\\Akshay\\BlazorAppAkshay\\BlazorAppAkshay.csproj",
+        "projectUniqueName": "C:\\Users\\DCS INFOWAY\\Akshay\\BlazorAppAkshay\\BlazorAppAkshay.csproj",
         "projectName": "BlazorAppAkshay",
-        "projectPath": "c:\\Users\\DCS INFOWAY\\Akshay\\BlazorAppAkshay\\BlazorAppAkshay.csproj",
+        "projectPath": "C:\\Users\\DCS INFOWAY\\Akshay\\BlazorAppAkshay\\BlazorAppAkshay.csproj",
         "packagesPath": "C:\\Users\\DCS INFOWAY\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\DCS INFOWAY\\Akshay\\BlazorAppAkshay\\obj\\",
+        "outputPath": "C:\\Users\\DCS INFOWAY\\Akshay\\BlazorAppAkshay\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

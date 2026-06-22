@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Yh37Z3RdJYs=",
+  "dgSpecHash": "whQOL6hhVQs=",
   "success": true,
-  "projectFilePath": "c:\\Users\\DCS INFOWAY\\Akshay\\BlazorAppAkshay\\BlazorAppAkshay.csproj",
+  "projectFilePath": "C:\\Users\\DCS INFOWAY\\Akshay\\BlazorAppAkshay\\BlazorAppAkshay.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DCS INFOWAY\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.9\\microsoft.aspnetcore.app.internal.assets.10.0.9.nupkg.sha512",
     "C:\\Users\\DCS INFOWAY\\.nuget\\packages\\microsoft.aspnetcore.authorization\\10.0.9\\microsoft.aspnetcore.authorization.10.0.9.nupkg.sha512",
